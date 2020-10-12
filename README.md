@@ -1,6 +1,6 @@
 # Embedded MiniProject
 > **Members:**<br>
-> Hritik Hiran<br>
+> Hrithik Hiran<br>
 > Anuj Bharadwaj<br>
 > Revathi Palagiri<br>
 > Milind Mohapatra<br>
