@@ -1,4 +1,9 @@
 # Embedded MiniProject
+
+&nbsp;(\ /) &emsp;&emsp;(\ /) &emsp;&emsp;(\ /)<br>
+&nbsp;( . .) &emsp;&emsp;( . .) &emsp;&emsp; ( . .)<br>
+C(")(") &emsp;C(")(") &emsp;C(")(")<br>
+
 > **Members:**<br>
 > Hrithik Hiran<br>
 > Anuj Bharadwaj<br>
